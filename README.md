@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Patrick "Shades" Wetzel-Meyers (he/him).
+
+It's a pleasure to meet you, and thank you for taking a look at my repo.
+
+Below are some pinned projects I think you'll find interesting.
+
 <!--
 **Shades4355/Shades4355** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
