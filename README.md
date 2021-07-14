@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ### I'm Shades (he/him), a full-stack developer 👨‍💻</div>
 
-My full name is Patrick "Shades" Wetzel-Meyers, but having grown up around so many "Patrick"s, I prefer to go by "Shades".
+My full name is Patrick Wetzel-Meyers, but having grown up around so many "Patrick"s, I prefer to go by "Shades".
 
 It's a pleasure to meet you, and thank you for taking a look at my repo.
 
